@@ -1,0 +1,22 @@
+ .profile-card {
+  width: 300px;
+  margin: 30px auto;
+  padding: 20px;
+  text-align: center;
+  border: 1px solid gray;
+  border-radius: 10px;
+}
+
+.profile-image {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+
+.profile-button {
+  padding: 10px 20px;
+  background-color: navy;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
